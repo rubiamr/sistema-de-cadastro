@@ -5,6 +5,6 @@
 >
 > Para rodar digite:
 >
-> '''
+> ```
 > ./teste
-> '''
+> ```
